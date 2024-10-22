@@ -82,10 +82,6 @@ You can also load custom-trained models or integrate additional features like ob
 - Enable saving of processed video outputs with segmented objects.
 - Integration with additional deep learning models for object recognition and tracking.
 
-## Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/aprmswra/Video-RealTime-Segment/issues) or submit a pull request.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
