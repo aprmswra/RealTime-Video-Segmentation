@@ -1,0 +1,13 @@
+name: realtime-vid-env
+channels:
+  - defaults
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+    - torch
+    - torchvision
+    - opencv-python
+    - numpy
