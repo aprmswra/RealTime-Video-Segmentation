@@ -21,7 +21,7 @@
 
 Here's a sample output of the segmentation task:
 
-![Segmentation Sample](result.jpeg)
+![Segmentation Sample](Result.jpeg)
 
 ## Setup Instructions
 
