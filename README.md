@@ -17,6 +17,12 @@
 - **OpenCV**: Used for video capture, frame processing, and display.
 - **Pre-trained Segmentation Models** from `torchvision`.
 
+## Sample Output
+
+Here's a sample output of the segmentation task:
+
+![Segmentation Sample](result.jpeg)
+
 ## Setup Instructions
 
 ### 1. Clone the Repository
